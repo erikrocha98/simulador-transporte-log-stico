@@ -39,4 +39,4 @@ Para compilar e executar o simulador:
 
 ```bash
 make all
-./bin/tp3.out
+./bin/tp3.out <arquivo.txt>
